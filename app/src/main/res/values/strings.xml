@@ -1,0 +1,20 @@
+<resources>
+	<string name="app_name">FormValidationAwesomeLibrary</string>
+	<string name="name">Name</string>
+	<string name="email">Email</string>
+	<string name="password">Password</string>
+	<string name="confirm_password">Confirm Password</string>
+	<string name="phone">Phone</string>
+	<string name="age">Age</string>
+	<string name="submit">Submit</string>
+	<string name="confirm_email">Confirm Email</string>
+	<string name="terms_and_conditions">I agree to the terms and conditions</string>
+
+	<string name="invalid_name">Please enter a valid Name</string>
+	<string name="invalid_email">Please enter a valid email</string>
+	<string name="invalid_confirm_email">Email does not match</string>
+	<string name="invalid_password">Please enter a valid password</string>
+	<string name="invalid_confirm_password">Password does not match</string>
+	<string name="invalid_phone">Please enter a valid Phone</string>
+	<string name="invalid_age">Age must be between 12 and 60.</string>
+</resources>
